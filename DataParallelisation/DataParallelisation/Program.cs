@@ -102,48 +102,48 @@ namespace DataParallelisation
 
             stopWatch.Stop();
             Console.WriteLine("TimeToLoad: " + stopWatch.Elapsed.TotalSeconds);
-            RetrieveData();
+            //RetrieveData();
         }
 
-        public static void RetrieveData()
-        {
-            Console.WriteLine("Enter a Store ID: ");
-            string storeID = Console.ReadLine();
-            Console.WriteLine(storeID);
+        //public static void RetrieveData()
+        //{
+        //    Console.WriteLine("Enter a Store ID: ");
+        //    string storeID = Console.ReadLine();
+        //    Console.WriteLine(storeID);
 
-            Console.Write("Enter a year: ");
-            string year = Console.ReadLine();
-            Console.WriteLine(year);
+        //    Console.Write("Enter a year: ");
+        //    string year = Console.ReadLine();
+        //    Console.WriteLine(year);
 
-            Console.WriteLine("Enter a week number 1 - 52: ");
-            string week = Console.ReadLine();
-            Console.WriteLine(week);
+        //    Console.WriteLine("Enter a week number 1 - 52: ");
+        //    string week = Console.ReadLine();
+        //    Console.WriteLine(week);
 
-            Console.WriteLine(storeID + "_" + week + "_" + year);
+        //    Console.WriteLine(storeID + "_" + week + "_" + year);
 
-            string keyword = storeID + "_" + week + "_" + year;
+        //    string keyword = storeID + "_" + week + "_" + year;
 
-            //Needs refining because fugly and limited to one file path
-            string filePath = @"C:\Users\k017480g\Documents\tbseassignment1\tbseassignment1\DataParallelisation\DataParallelisation\bin\Debug\StoreData\StoreData\" + keyword + ".csv";
+        //    //Needs refining because fugly and limited to specific location
+        //    string filePath = @"C:\Users\k017480g\Documents\tbseassignment1\tbseassignment1\DataParallelisation\DataParallelisation\bin\Debug\StoreData\StoreData\" + keyword + ".csv";
 
-            int counter = 0;
-            string line;
+        //    int counter = 0;
+        //    string line;
 
-            // Read the file and display it line by line.  
-            System.IO.StreamReader file =
-                new System.IO.StreamReader(filePath);
-            while ((line = file.ReadLine()) != null)
-            {
-                System.Console.WriteLine(line);
-                counter++;
-            }
+        //    // Read the file and display it line by line.  
+        //    System.IO.StreamReader file =
+        //        new System.IO.StreamReader(filePath);
+        //    while ((line = file.ReadLine()) != null)
+        //    {
+        //        System.Console.WriteLine(line);
+        //        counter++;
+        //    }
 
-            file.Close();
-            System.Console.WriteLine("There were {0} lines.", counter);
-            // Suspend the screen.  
-            System.Console.ReadLine();
+        //    file.Close();
+        //    System.Console.WriteLine("There were {0} lines.", counter);
+        //    // Suspend the screen.  
+        //    System.Console.ReadLine();
 
-        }
+        //}
     }
 
 }
