@@ -16,21 +16,6 @@ namespace DataParallelisation
             InitializeComponent();
         }
 
-        private void idText_TextChanged(object sender, EventArgs e)
-        {
-            
-        }
-
-        private void yearText_TextChanged(object sender, EventArgs e)
-        {
-            
-        }
-
-        private void weekText_TextChanged(object sender, EventArgs e)
-        {
-           
-        }
-
         private void retrieveInfo_Click(object sender, EventArgs e)
         {
             store = idText.Text;
