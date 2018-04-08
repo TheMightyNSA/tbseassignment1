@@ -96,18 +96,18 @@
             // 
             // tFilePath
             // 
-            this.tFilePath.Location = new System.Drawing.Point(236, 386);
+            this.tFilePath.Location = new System.Drawing.Point(100, 388);
             this.tFilePath.Name = "tFilePath";
-            this.tFilePath.Size = new System.Drawing.Size(119, 20);
+            this.tFilePath.Size = new System.Drawing.Size(363, 20);
             this.tFilePath.TabIndex = 9;
             // 
             // button1
             // 
-            this.button1.Location = new System.Drawing.Point(144, 384);
+            this.button1.Location = new System.Drawing.Point(12, 386);
             this.button1.Name = "button1";
             this.button1.Size = new System.Drawing.Size(82, 23);
             this.button1.TabIndex = 10;
-            this.button1.Text = "Select File";
+            this.button1.Text = "Open File";
             this.button1.UseVisualStyleBackColor = true;
             // 
             // idText

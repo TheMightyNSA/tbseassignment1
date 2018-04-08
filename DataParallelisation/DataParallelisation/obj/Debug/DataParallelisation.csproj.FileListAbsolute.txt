@@ -14,3 +14,12 @@ C:\Users\k017480g\Documents\tbseassignment1\tbseassignment1\DataParallelisation\
 C:\Users\k017480g\Documents\tbseassignment1\tbseassignment1\DataParallelisation\DataParallelisation\obj\Debug\DataParallelisation.csproj.CoreCompileInputs.cache
 C:\Users\k017480g\Documents\tbseassignment1\tbseassignment1\DataParallelisation\DataParallelisation\obj\Debug\DataParallelisation.exe
 C:\Users\k017480g\Documents\tbseassignment1\tbseassignment1\DataParallelisation\DataParallelisation\obj\Debug\DataParallelisation.pdb
+C:\Users\k017480g\Documents\tbseassignment1\DataParallelisation\DataParallelisation\bin\Debug\DataParallelisation.exe.config
+C:\Users\k017480g\Documents\tbseassignment1\DataParallelisation\DataParallelisation\bin\Debug\DataParallelisation.exe
+C:\Users\k017480g\Documents\tbseassignment1\DataParallelisation\DataParallelisation\bin\Debug\DataParallelisation.pdb
+C:\Users\k017480g\Documents\tbseassignment1\DataParallelisation\DataParallelisation\obj\Debug\DataParallelisation.csprojResolveAssemblyReference.cache
+C:\Users\k017480g\Documents\tbseassignment1\DataParallelisation\DataParallelisation\obj\Debug\DataParallelisation.Interface.resources
+C:\Users\k017480g\Documents\tbseassignment1\DataParallelisation\DataParallelisation\obj\Debug\DataParallelisation.csproj.GenerateResource.Cache
+C:\Users\k017480g\Documents\tbseassignment1\DataParallelisation\DataParallelisation\obj\Debug\DataParallelisation.csproj.CoreCompileInputs.cache
+C:\Users\k017480g\Documents\tbseassignment1\DataParallelisation\DataParallelisation\obj\Debug\DataParallelisation.exe
+C:\Users\k017480g\Documents\tbseassignment1\DataParallelisation\DataParallelisation\obj\Debug\DataParallelisation.pdb
