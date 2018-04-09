@@ -1,0 +1,10 @@
+C:\Users\Connor\Documents\!Uni Level 5\DataParrelism\DataParrelism\obj\Debug\DataParrelism.csprojResolveAssemblyReference.cache
+C:\Users\Connor\Documents\!Uni Level 5\DataParrelism\DataParrelism\obj\Debug\DataParrelism.Form1.resources
+C:\Users\Connor\Documents\!Uni Level 5\DataParrelism\DataParrelism\obj\Debug\DataParrelism.Properties.Resources.resources
+C:\Users\Connor\Documents\!Uni Level 5\DataParrelism\DataParrelism\obj\Debug\DataParrelism.csproj.GenerateResource.Cache
+C:\Users\Connor\Documents\!Uni Level 5\DataParrelism\DataParrelism\obj\Debug\DataParrelism.csproj.CoreCompileInputs.cache
+C:\Users\Connor\Documents\!Uni Level 5\DataParrelism\DataParrelism\bin\Debug\DataParrelism.exe.config
+C:\Users\Connor\Documents\!Uni Level 5\DataParrelism\DataParrelism\bin\Debug\DataParrelism.exe
+C:\Users\Connor\Documents\!Uni Level 5\DataParrelism\DataParrelism\bin\Debug\DataParrelism.pdb
+C:\Users\Connor\Documents\!Uni Level 5\DataParrelism\DataParrelism\obj\Debug\DataParrelism.exe
+C:\Users\Connor\Documents\!Uni Level 5\DataParrelism\DataParrelism\obj\Debug\DataParrelism.pdb
